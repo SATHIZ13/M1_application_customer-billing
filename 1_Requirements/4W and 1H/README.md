@@ -1,4 +1,4 @@
-Why:
+   Why:
    1. This project will help the store keeper in fast billing
    2. This project enable store keeper to maintain a great database of all
       customers visited and purchase product from store.
