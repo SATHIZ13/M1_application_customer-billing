@@ -1,10 +1,9 @@
 HIGH LEVEL REQUIREMENTS:
-
-  Fast Billing:
-           This project help in store keeper fast billing.
  
-  Data Requirements:
-            To collect and maintain the data of customers for purchased items.
-  
-  Invoice:
-          Customers Invoice maintainances.
+ 
+ 
+          |     HLR_1       |                  Fast Billing:This project help in store keeper fast billing.                 |
+          | --------------- | --------------------------------------------------------------------------------------------- |
+          |     HLR_2       |         Data Requirements:To collect and maintain the data of customers for purchased items.  |
+          |                 |                                                                                               |
+          |     HLR_3       |                            Invoice:Customers Invoice maintainances.                           |
