@@ -1,6 +1,5 @@
 /**
  * @file customer_Billing.h
- * @author your name (you@domain.com)
  * @brief 
  * @date 2021-11-22
  * 
