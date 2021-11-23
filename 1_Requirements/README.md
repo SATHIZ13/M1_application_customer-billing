@@ -97,4 +97,3 @@ LOW LEVEL PRQUIREMENTS:-
 |--|------|---|
 |LLR_1|Invoice area|Implmented|
 |LLR_2|History transaction portal|Implemented|
-
