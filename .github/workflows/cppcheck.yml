@@ -1,4 +1,4 @@
-name: Code Quality - Static code - Cppcheck
+name: Code Quality - Static Code - Cppcheck
 
 on:
   push:
@@ -14,10 +14,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Install cppcheck
-      run:  sudo apt -y install cppcheck
+      run: sudo apt -y install cppcheck
     - name: Run cppcheck
-      run:  cppcheck 3_Implementation
-    - name: make check
-      run: make check
-    - name: make distcheck
-      run: make distcheck
+      run: cppcheck 3_Implementation
+
