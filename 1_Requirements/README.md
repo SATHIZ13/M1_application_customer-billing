@@ -6,7 +6,7 @@
 
 # FEATURES OF CUSTOMER BILLING SYSTEM:-
 
-# The Customer Billing System has :
+ The Customer Billing System has :
 
     * Add and maintain records of available products.
     * Add and maintain customer details.
