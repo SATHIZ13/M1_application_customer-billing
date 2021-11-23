@@ -3,4 +3,3 @@ Structural Diagram 1
 
 Structural Diagram 2
 ![Structure 2](https://user-images.githubusercontent.com/89175883/142380644-71c2f478-6625-494f-9d42-37d560b8b1af.jpeg)
-
