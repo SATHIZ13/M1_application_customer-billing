@@ -4,9 +4,6 @@
 |H_02|Check whether entered  product is displayed correctly or not|Enter product ID number|Product is displayed|Product is displayed|Scenario based|
 |H_03|Check whether entered product ID is correct|Product ID|Displays product name|Displays product name|Boundary based|
 
-
-
-
 |Test ID|Description|EXP I/P|EXP O/P|Actual OUT|Types of Test|
 |---|---|---|---|---|---|
 |L_01|To check each product must show its cost price|Product ID|Product displayed with cost price|Product displayed with cost price|Requirement based|
