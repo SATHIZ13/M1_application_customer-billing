@@ -56,10 +56,9 @@ Threads:
 
 Why:
 
-
     * This project will help the store keeper in fast billing
     * This project enable store keeper to maintain a great database of all
-     customers visited and purchase product from store.
+      customers visited and purchase product from store.
     * Project will enable to see report regarding product and category.
     * Easy to maintain in future prospect.
 
