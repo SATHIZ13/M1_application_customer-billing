@@ -6,3 +6,6 @@
 
 # Unit Testing
 [![C/C++ CI UnitTesting](https://github.com/SATHIZ13/M1_application_customer-billing/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/SATHIZ13/M1_application_customer-billing/actions/workflows/unit_testing.yml)
+
+# cppcheck
+[![Code Quality - Static Code - Cppcheck](https://github.com/SATHIZ13/M1_application_customer-billing/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/SATHIZ13/M1_application_customer-billing/actions/workflows/cppcheck.yml)
