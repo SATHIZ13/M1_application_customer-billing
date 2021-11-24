@@ -9,3 +9,6 @@
 
 # cppcheck
 [![Code Quality - Static Code - Cppcheck](https://github.com/SATHIZ13/M1_application_customer-billing/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/SATHIZ13/M1_application_customer-billing/actions/workflows/cppcheck.yml)
+
+# Gitinspector badge
+[![Contribution Check - Git Inspector](https://github.com/SATHIZ13/M1_application_customer-billing/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/SATHIZ13/M1_application_customer-billing/actions/workflows/gitinspector.yml)
