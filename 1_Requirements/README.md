@@ -1,4 +1,4 @@
-## INTRODUCTION
+# INTRODUCTION
 
          This project is about Customer Billing System.This project helps
          the shopkeeper to track the customers information and their
