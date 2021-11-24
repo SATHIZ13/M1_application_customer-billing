@@ -1,12 +1,12 @@
-## INTRODUCTION:-
+## INTRODUCTION
 
          This project is about Customer Billing System.This project helps
          the shopkeeper to track the customers information and their
          product details.
 
-## FEATURES OF CUSTOMER BILLING SYSTEM:-
+## FEATURES OF CUSTOMER BILLING SYSTEM
 
- The Customer Billing System has :
+ The Customer Billing System has 
 
     * Add and maintain records of available products.
     * Add and maintain customer details.
@@ -17,9 +17,9 @@
     * Provides a convenient solution of billing pattern.
     * Make an easy to use environment for users and customers.
 
-## IDENTIFYING THE REQUIREMENTS:-
+## IDENTIFYING THE REQUIREMENTS
 
-       Technologies and Tools Used:
+       Technologies and Tools Used
 
          Web Technology: Chrome
          Development Tool: Github Website
@@ -28,11 +28,11 @@
          Languages Used: C Language
          Hardware CPU configuration
 
-       INTEL processors:
+       INTEL processors
    
          RAM 4 GB DDR4 Operating System -Windows 10,Linux(Ubuntu)
 
-## SWOT ANALYSIS:
+## SWOT ANALYSIS
 
    Strength:
 
@@ -83,7 +83,7 @@ How:
 
     This Web based application automate the process of Ordering and billing of departmental store.
 
-## HIGH LEVEL REQUIREMENTS:-
+## HIGH LEVEL REQUIREMENTS
 
 |ID|Description|Status|
 |---|------|---|
@@ -91,7 +91,7 @@ How:
 |HLR_2|Product list area|Implemented|
 |HLR_3|Fully Automated tool|Future|
 
-## LOW LEVEL PRQUIREMENTS:-
+## LOW LEVEL PRQUIREMENTS
 
 |ID|Description|Status|
 |--|------|---|
