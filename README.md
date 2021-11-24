@@ -12,3 +12,9 @@
 
 # Gitinspector badge
 [![Contribution Check - Git Inspector](https://github.com/SATHIZ13/M1_application_customer-billing/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/SATHIZ13/M1_application_customer-billing/actions/workflows/gitinspector.yml)
+
+# Windows c/c++ Badge
+[![Windows C/C++ CI](https://github.com/SATHIZ13/M1_application_customer-billing/actions/workflows/windows_c-cpp.yml/badge.svg)](https://github.com/SATHIZ13/M1_application_customer-billing/actions/workflows/windows_c-cpp.yml)
+
+# Linux c/c++ Badge
+
