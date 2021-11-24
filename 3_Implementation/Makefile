@@ -1,9 +1,9 @@
 PROJ_NAME = Customer_billing
 SRC = Project_main.c\
 src/customer_billing.c\
-TEST_SRC = src/regist.c\
-src/existreg.c\
-test/test_regist.c\
+TEST_SRC = src/customer_billing.c\
+src/customer_billing.c\
+test/test_customer_billing.c\
 unity/unity.c 
   
 
