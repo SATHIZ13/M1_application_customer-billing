@@ -114,3 +114,36 @@ How:
 # Structural Diagram 2
 ![Structure 2](https://user-images.githubusercontent.com/89175883/142380644-71c2f478-6625-494f-9d42-37d560b8b1af.jpeg)
 
+# Introduction
+This folder conatins all the coding files as well as the resources and testing files neede for proper execution of program
+
+# Instructions to execute
+- Clone my repository
+- Go to 3_Implementation folder
+- Make sure your system meets all software and hardware requirements
+- Run "make run" command in terminal for main code execution
+- Run "make run_test" command in terminal for test code execution
+
+# implementation
+
+## Manual
+
+### Setup to run Project
+-An integrated development environment (Suggesting Visual Studio Code).
+-GCC compiler to compile the project.
+-"make" to run the Makefile smoothly.
+
+### Steps To run Project
+1.First clone the repository from the Github.
+2.Open the repository in an IDE (Suggesting Visual Studio Code).
+3.The next step is to build the project with the help of make command :
+   -make all
+4.Next step is to run the project with help of make command :
+   -make run
+5.If you want to run the test cases then run the following command :
+   -make test
+6.Clean all executable files by following command :
+   -make clean
+# Test Plan
+
+
