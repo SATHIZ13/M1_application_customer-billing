@@ -24,3 +24,11 @@
 |----|
 |[![Linux C/C++ CI](https://github.com/SATHIZ13/M1_application_customer-billing/actions/workflows/Linux_c-cpp.yml/badge.svg)](https://github.com/SATHIZ13/M1_application_customer-billing/actions/workflows/Linux_c-cpp.yml)|
 
+|Folder|Description|
+|---|---|
+|`1_Requirements`|	Describe about the requirements and research|
+|`2_Design`|	Descibe about the design of Project|
+|`3_Implementation`|	All coding related files|
+|`4_Testplan`	|Test case|
+|`5_Testplan`	|Complete report of project|
+|`6_ImagesAndVideos`|Images and Videos related to project|
