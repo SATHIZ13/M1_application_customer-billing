@@ -6,7 +6,7 @@
 
 # FEATURES OF CUSTOMER BILLING SYSTEM:-
 
- The Customer Billing System has :
+ ### The Customer Billing System has :
 
     * Add and maintain records of available products.
     * Add and maintain customer details.
@@ -19,7 +19,7 @@
 
 # IDENTIFYING THE REQUIREMENTS:-
 
-       Technologies and Tools Used:
+   ### Technologies and Tools Used:
 
          Web Technology: Chrome
          Development Tool: Github Website
@@ -28,33 +28,33 @@
          Languages Used: C Language
          Hardware CPU configuration
 
-       INTEL processors:
+   ### INTEL processors:
    
          RAM 4 GB DDR4 Operating System -Windows 10,Linux(Ubuntu)
 
 # SWOT ANALYSIS:
 
-   Strength:
+  ###  Strength:
 
     It is an automate application method ,so It will reduce the Human power.
 
-   Weakness:
+  ### Weakness:
 
     Though it is an Automated process, it is not fully automated.
 
-   Opportunities:
+  ### Opportunities:
 
      It will Increase the company efficiency.
      Requires less man power in IShops etc...
 
-   Threads:
+  ### Threads:
 
       By using this automation process, sometimes system might get corrupt.
       Provide false Information about the Customer.
 
 # 4W'S AND 1H
 
-Why:
+  ### Why:
 
     * This project will help the store keeper in fast billing
     * This project enable store keeper to maintain a great database of all
@@ -62,24 +62,24 @@ Why:
     * Project will enable to see report regarding product and category.
     * Easy to maintain in future prospect.
 
-What:
+  ###  What:
 
     * Add and maintain records of available products.
     * Add and maintain customer details.
     * Add and maintain description of new products.
     * Add and maintain new entered category of products.
 
-Where:
+  ### Where:
 
     *Departmental stores
     *Medicals.
     *Shops etc..
 
-When:
+  ### When:
 
     While Billing the products.
 
-How:
+  ### How:
 
     This Web based application automate the process of Ordering and billing of departmental store.
 
@@ -114,36 +114,30 @@ How:
 # Structural Diagram 2
 ![Structure 2](https://user-images.githubusercontent.com/89175883/142380644-71c2f478-6625-494f-9d42-37d560b8b1af.jpeg)
 
-# Introduction
-This folder conatins all the coding files as well as the resources and testing files neede for proper execution of program
-
-# Instructions to execute
-- Clone my repository
-- Go to 3_Implementation folder
-- Make sure your system meets all software and hardware requirements
-- Run "make run" command in terminal for main code execution
-- Run "make run_test" command in terminal for test code execution
-
-# implementation
+# Implementation
 
 ## Manual
 
 ### Setup to run Project
--An integrated development environment (Suggesting Visual Studio Code).
--GCC compiler to compile the project.
--"make" to run the Makefile smoothly.
+
+- An integrated development environment (Suggesting Visual Studio Code).
+- GCC compiler to compile the project.
+- "make" to run the Makefile smoothly.
 
 ### Steps To run Project
-1.First clone the repository from the Github.
-2.Open the repository in an IDE (Suggesting Visual Studio Code).
-3.The next step is to build the project with the help of make command :
-   -make all
-4.Next step is to run the project with help of make command :
-   -make run
-5.If you want to run the test cases then run the following command :
-   -make test
-6.Clean all executable files by following command :
-   -make clean
+
+1. First clone the repository from the Github.
+2. Open the repository in an IDE (Suggesting Visual Studio Code).
+3. The next step is to build the project with the help of make command :
+   - make all
+4. Next step is to run the project with help of make command :
+   - make run
+5. If you want to run the test cases then run the following command :
+   - make test
+6. Clean all executable files by following command :
+   - make clean
+
 # Test Plan
+
 
 
